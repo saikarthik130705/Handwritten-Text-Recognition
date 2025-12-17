@@ -6,10 +6,10 @@ This project extracts handwritten text from PDF files and saves the recognized t
 
 ## ⚙️ Tech Stack
 
-Python 3.10+
-EasyOCR – handwriting-capable OCR engine
-pdf2image – PDF to image conversion
-Poppler – PDF rendering backend (Windows requirement)
+Python 3.10+,
+EasyOCR – handwriting-capable OCR engine, 
+pdf2image – PDF to image conversion, 
+Poppler – PDF rendering backend (Windows requirement), 
 NumPy – image format conversion
 
 ## ⚠️ Limitations
